@@ -1,4 +1,4 @@
-# DataCamp: When Was the Golden Age of Video Games?
+# DataCamp: When Was the Golden Age of Video Games? 🎮
 
 ## Project Description
 
